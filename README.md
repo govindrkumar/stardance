@@ -2,4 +2,4 @@
 
 ## Project Overview
 ### Home Page
-![Home Page]('Images/home_page.png')
+![Home Page](Images/home_page.png)
