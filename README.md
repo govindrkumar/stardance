@@ -25,6 +25,7 @@ This is my personal portfolio website. I created this in vanilla html and css. I
 
 ### Contact
 It mentions my social media accounts. 
+![Contact](Images/contact.png)
 
 ## Limitations : 
 - Rust of previous knowledge
